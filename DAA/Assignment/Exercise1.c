@@ -8,15 +8,3 @@
 // 5. If it is not, move to the next element in the array. 
 // 6. Return the largest element. 
 
-
-# include <stdio.h>
-int main{
-    int array[] = {0, 2, 4, 6, 8, 10};
-    int size = sizeof (array) / sizeof (array[0]);
-
-int get_large
-    
-
-
-    return 0;
-}
